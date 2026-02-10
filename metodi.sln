@@ -1,11 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.13.35919.96 d17.13
+VisualStudioVersion = 17.13.35919.96
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "metodi", "metodi\metodi.csproj", "{76A1B804-F665-45FC-BCEB-DC334869CF6F}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "metodzadanie", "metodzadanie\metodzadanie.csproj", "{238928BB-EE55-4DFA-886F-35139EC598E2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "metodi1", "metodi1\metodi1.csproj", "{1A7BE4F9-2F26-44A3-BEF7-9AE280005C4E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{238928BB-EE55-4DFA-886F-35139EC598E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{238928BB-EE55-4DFA-886F-35139EC598E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{238928BB-EE55-4DFA-886F-35139EC598E2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A7BE4F9-2F26-44A3-BEF7-9AE280005C4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A7BE4F9-2F26-44A3-BEF7-9AE280005C4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A7BE4F9-2F26-44A3-BEF7-9AE280005C4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A7BE4F9-2F26-44A3-BEF7-9AE280005C4E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
