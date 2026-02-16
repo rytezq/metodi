@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "domzad", "domzad\domzad.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "napare", "napare\napare.csproj", "{EA5A9A3A-5FCB-42CF-93C7-888ECEFA5CB4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pr", "pr\pr.csproj", "{33BE7A0C-24FA-4F6E-80A1-F408BF166976}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{EA5A9A3A-5FCB-42CF-93C7-888ECEFA5CB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EA5A9A3A-5FCB-42CF-93C7-888ECEFA5CB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EA5A9A3A-5FCB-42CF-93C7-888ECEFA5CB4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{33BE7A0C-24FA-4F6E-80A1-F408BF166976}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33BE7A0C-24FA-4F6E-80A1-F408BF166976}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33BE7A0C-24FA-4F6E-80A1-F408BF166976}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33BE7A0C-24FA-4F6E-80A1-F408BF166976}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
